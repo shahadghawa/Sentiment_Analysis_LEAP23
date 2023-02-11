@@ -48,4 +48,4 @@ To Demonstrate the Twitter data scraping for How people react to the #leap23 eve
 14- fep7_sentiment.csv : The CSV file after do the sentiment analysis for day 7 feb <br />
 15- fep8_sentiment.csv : The CSV file after do the sentiment analysis for day 8 feb <br />
 16- fep9_sentiment.csv : The CSV file after do the sentiment analysis for day 9 feb <br />
- 
+17- leap_Dashboard.pbix : Dashboard for sentiment by using Power bi  

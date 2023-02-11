@@ -1,6 +1,9 @@
 # Sentiment_Analysis_LEAP23
 
 
+<img width="1500" alt="leap" src="https://user-images.githubusercontent.com/94755943/218257269-7d5ac7b3-055e-4fc5-b197-16c25755de3e.png">
+
+
 ## INTRO :
 
 The growth of the Saudi tech industry, in line with the goals of Saudi Vision 2030, is a way for the Kingdom to diversify its economy away from oil and gas revenues.
@@ -25,10 +28,8 @@ To Demonstrate the Twitter data scraping for How people react to the #leap23 eve
  9 feb <br />
  
  ## Results :
- 
- ![Uploading Screenshot 2023-02-11 at 3.05.40 PM.png…]()
+ <img width="1260" alt="Dashboard" src="https://user-images.githubusercontent.com/94755943/218257229-433e8268-8c23-431e-8564-2ceafd465a1e.png">
 
- 
  
  ## The file guides :
  1- Webscrpaing_leap : Webscribing code <br />
